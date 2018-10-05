@@ -102,6 +102,10 @@ public class GenericBounds {
 		l.setTimestamp(2);
 		lgm.showMessage();
 		
+		String s = lgm.getMessage();
+		
+		System.out.println(s);
+		
 		
 		
 		
